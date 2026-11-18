@@ -1,0 +1,14 @@
+{
+  "name": "acad-affairs-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix \"Acad affairs\" run dev",
+    "dev:frontend": "npm --prefix \"Acad affairs\" run dev:frontend",
+    "dev:backend": "npm --prefix \"Acad affairs\" run dev:backend",
+    "db:import": "npm --prefix \"Acad affairs\" run db:import",
+    "build": "npm --prefix \"Acad affairs\" run build",
+    "preview": "npm --prefix \"Acad affairs\" run preview"
+  }
+}
+
